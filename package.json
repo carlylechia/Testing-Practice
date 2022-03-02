@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This repo is to practice writing unit tests with javascript and jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlylechia/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlylechia/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/carlylechia/Testing-Practice#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
